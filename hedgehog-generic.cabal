@@ -38,7 +38,7 @@ library
     Hedgehog.Generic
   build-depends:
     , base >= 4.10.1.0 && < 5
-    , hedgehog >= 1.2 && < 2.0
+    , hedgehog >= 1.1.2 && < 2.0
   ghc-options:
     -Wall
   default-language:
